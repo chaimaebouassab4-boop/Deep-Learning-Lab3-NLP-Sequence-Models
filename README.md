@@ -11,6 +11,7 @@ This lab explores Natural Language Processing (NLP) techniques for Arabic text, 
 
 **Domain Focus**: Technology news articles (Arabic)
 
+https://colab.research.google.com/drive/1pGrxMEjvPafzg6B-Wa5cTY_p8D4ct5SI?usp=sharing
 ---
 
 ## 🎯 Learning Objectives
